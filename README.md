@@ -53,7 +53,7 @@ done/            → final Excel files (.xlsx)
 
 📦 Installation
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/docx-question-extractor.git
+git clone https://github.com/computerixed/Q-Extractor.git
 cd docx-question-extractor
 
 2️⃣ Install dependencies
